@@ -2,7 +2,7 @@
 
 <h3 align="center">Full Stack Developer | Backend Developer | Frontend Developer | MERN Developer</h3>
 
-About Me : 
+<h2 align="left">About me👨‍💻</h2>
 I am a passionate Fullstack Developer with a focus on creating dynamic and responsive web applications. With a strong background in both frontend and backend development, I strive to deliver high-quality and efficient solutions.
 
 - 🔭 I’m currently working on fullstack technologies.
@@ -11,7 +11,7 @@ I am a passionate Fullstack Developer with a focus on creating dynamic and respo
 - 😄 My website with my projects: https: https://somya-fullstack-portfolio.vercel.app/
 - 📄 See my resume: https://drive.google.com/file/d/1pLNXih3q_NNpLDs4ZW40yPzOTFmEFQAK/view?usp=sharing
   
-### Connect with me:
+### Connect with me 🤝:
 <p align="left">
 <a href="https://twitter.com/bhatnagar_46554" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bhatnagar_46554" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/somya-bhatnagar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="somya-bhatnagar" height="30" width="40" /></a>
@@ -20,6 +20,9 @@ I am a passionate Fullstack Developer with a focus on creating dynamic and respo
   </a>
   <a href="https://www.instagram.com/somyabhatnagar98" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="somyabhatnagar98" height="30" width="40" />
+  </a>
+ <a href="mailto:somya.bhatnagar98@gmail.com" target="_blank">
+    <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
@@ -65,7 +68,14 @@ I am a passionate Fullstack Developer with a focus on creating dynamic and respo
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=SomyaBhatnagar19&label=Profile%20views&color=0e75b6&style=flat" alt="SomyaBhatnagar19" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=SomyaBhatnagar19" alt="SomyaBhatnagar19" /></a> </p>
+<div>
+  <h2>Stats📈</h2>
+
+  <p align="center">
+    <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ayushsoni1010&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+    <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ayushsoni1010&theme=tokyonight" alt="GitHub Streak" />
+  </p>
+</div>
 
 
 <br>
