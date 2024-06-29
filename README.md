@@ -59,6 +59,11 @@ I am a passionate Fullstack Developer with a focus on creating dynamic and respo
 ![MS Office](https://img.shields.io/badge/-MS%20Office-D83B01?style=flat&logo=microsoft-office&logoColor=white)
 
 
+### GitHub Stats
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=SomyaBhatnagar19&show_icons=true&theme=dark)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SomyaBhatnagar19&layout=compact&theme=dark)
 
 <br>
 ⭐️ From [SomyaBhatnagar](https://github.com/SomyaBhatnagar19/SomyaBhatnagar19)
