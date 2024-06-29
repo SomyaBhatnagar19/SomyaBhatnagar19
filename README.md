@@ -82,4 +82,4 @@ I am a passionate Fullstack Developer with a focus on creating dynamic and respo
 
 
 <br>
-<h5 align="center">⭐ Made by Somya Bhatnagar ⭐</h5>
+<h4 align="center">⭐ Made by Somya Bhatnagar ⭐</h4>
