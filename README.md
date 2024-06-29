@@ -1,5 +1,7 @@
  <h1 align="center">Hi 👋, I'm Somya Bhatnagar</h1>
 
+<h3 align="center">Full Stack Developer | Backend Developer | Frontend Developer | MERN Developer</h3>
+
 About Me
 I am a passionate Fullstack Developer with a focus on creating dynamic and responsive web applications. With a strong background in both frontend and backend development, I strive to deliver high-quality and efficient solutions.
 
