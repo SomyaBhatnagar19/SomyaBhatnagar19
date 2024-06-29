@@ -80,4 +80,4 @@ I am a passionate Fullstack Developer with a focus on creating dynamic and respo
 
 
 <br>
-⭐️ From [SomyaBhatnagar](https://github.com/SomyaBhatnagar19/SomyaBhatnagar19)
+<h3>Made by Somya Bhatnagar</h3>
