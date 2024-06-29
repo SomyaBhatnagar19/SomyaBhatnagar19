@@ -27,7 +27,7 @@ I am a passionate Fullstack Developer with a focus on creating dynamic and respo
 
 </p>
 
-<h2 align="left">Languages and Tools</h2>
+<h2 align="left">Languages and Tools 🚀</h2>
 
 
 #### Frontend
