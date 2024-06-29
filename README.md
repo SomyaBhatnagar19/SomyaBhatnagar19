@@ -21,9 +21,10 @@ I am a passionate Fullstack Developer with a focus on creating dynamic and respo
   <a href="https://www.instagram.com/somyabhatnagar98" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="somyabhatnagar98" height="30" width="40" />
   </a>
- <a href="mailto:somya.bhatnagar98@gmail.com" target="_blank">
-    <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
+<a href="mailto:somya.bhatnagar98@gmail.com" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge" height="30" width="40" />
+</a>
+
 </p>
 
 ### Languages and Tools
