@@ -2,13 +2,14 @@
 
 <h3 align="center">Full Stack Developer | Backend Developer | Frontend Developer | MERN Developer</h3>
 
-About Me
+About Me : 
 I am a passionate Fullstack Developer with a focus on creating dynamic and responsive web applications. With a strong background in both frontend and backend development, I strive to deliver high-quality and efficient solutions.
 
 - 🔭 I’m currently working on fullstack technologies.
 - 🌱 I’m currently learning Backend
 - 📫 How to reach me: somya.bhatnagar98@gmail.com
-- 😄 My website: https: https://somya-fullstack-portfolio.vercel.app/
+- 😄 My website with my projects: https: https://somya-fullstack-portfolio.vercel.app/
+- 📄 See my resume: https://drive.google.com/file/d/1pLNXih3q_NNpLDs4ZW40yPzOTFmEFQAK/view?usp=sharing
   
 ### Connect with me:
 <div id="badges">
@@ -67,6 +68,11 @@ I am a passionate Fullstack Developer with a focus on creating dynamic and respo
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SomyaBhatnagar19&layout=compact&theme=dark)
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=SomyaBhatnagar19&label=Profile%20views&color=0e75b6&style=flat" alt="SomyaBhatnagar19" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=SomyaBhatnagar19" alt="SomyaBhatnagar19" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/harisaini607" target="blank"><img src="https://img.shields.io/twitter/follow/SomyaBhatnagar19?logo=twitter&style=for-the-badge" alt="SomyaBhatnagar19" /></a> </p>
 
 
 
