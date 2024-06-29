@@ -13,7 +13,7 @@ I am a passionate Fullstack Developer with a focus on creating dynamic and respo
   <a href="https://github.com/axiftaj">
     <img src="https://img.shields.io/badge/Github-white?style=for-the-badge&logo=Github&logoColor=black" alt="Github Badge"/>
   </a>
-   <a href="https://github.com/axiftaj">
+   <a href="www.linkedin.com/in/somya-bhatnagar">
     <img src="https://img.shields.io/badge/Github-white?style=for-the-badge&logo=Github&logoColor=black" alt="Github Badge"/>
   </a>
    <a href="https://twitter.com/axiftaj">
