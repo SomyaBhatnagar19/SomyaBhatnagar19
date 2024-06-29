@@ -14,7 +14,7 @@ I am a passionate Fullstack Developer with a focus on creating dynamic and respo
 ### Connect with me:
 <div id="badges">
   <a href="https://github.com/SomyaBhatnagar19">
-    <img src="https://img.shields.io/badge/Github-black?style=for-the-badge&logo=Github&logoColor=white" class="badge" alt="Github Badge"/>
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" class="badge" alt="Github Badge"/>
   </a>
   <a href="https://www.linkedin.com/in/somya-bhatnagar/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white" class="badge" alt="LinkedIn Badge"/>
