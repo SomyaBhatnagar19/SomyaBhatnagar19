@@ -14,18 +14,33 @@ I am a passionate Fullstack Developer with a focus on creating dynamic and respo
 ### Connect with me:
 <div id="badges">
   <a href="https://github.com/SomyaBhatnagar19">
-    <img src="https://img.shields.io/badge/Github-black?style=for-the-badge&logo=Github&logoColor=white" alt="Github Badge"/>
+    <img src="https://img.shields.io/badge/Github-black?style=for-the-badge&logo=Github&logoColor=white" class="badge" alt="Github Badge"/>
   </a>
   <a href="https://www.linkedin.com/in/somya-bhatnagar/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white" class="badge" alt="LinkedIn Badge"/>
   </a>
   <a href="https://twitter.com/bhatnagar_46554">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" class="badge" alt="Twitter Badge"/>
   </a>
   <a href="https://www.instagram.com/somyabhatnagar98">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram Badge"/>
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white" class="badge" alt="Instagram Badge"/>
   </a>
 </div>
+
+<style>
+  #badges {
+    display: flex;
+    gap: 10px; /* Adjust the gap to your preference */
+    justify-content: center;
+  }
+  .badge {
+    border-radius: 50%;
+    overflow: hidden;
+    width: 50px; /* Adjust the width to your preference */
+    height: 50px; /* Adjust the height to your preference */
+  }
+</style>
+
 
 
 ### Languages and Tools
@@ -71,9 +86,6 @@ I am a passionate Fullstack Developer with a focus on creating dynamic and respo
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=SomyaBhatnagar19&label=Profile%20views&color=0e75b6&style=flat" alt="SomyaBhatnagar19" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=SomyaBhatnagar19" alt="SomyaBhatnagar19" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/harisaini607" target="blank"><img src="https://img.shields.io/twitter/follow/SomyaBhatnagar19?logo=twitter&style=for-the-badge" alt="SomyaBhatnagar19" /></a> </p>
-
 
 
 <br>
