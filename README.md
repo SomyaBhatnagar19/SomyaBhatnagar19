@@ -65,5 +65,21 @@ I am a passionate Fullstack Developer with a focus on creating dynamic and respo
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SomyaBhatnagar19&layout=compact&theme=dark)
 
+### Projects
+
+#### [Project 1 Name](https://github.com/yourusername/project1)
+A brief description of what the project does and its main features.
+
+- Technologies: [React, Node.js, MongoDB, etc.]
+- [Live Demo](https://yourliveprojecturl.com)
+- [Repository](https://github.com/yourusername/project1)
+
+#### [Project 2 Name](https://github.com/yourusername/project2)
+A brief description of what the project does and its main features.
+
+- Technologies: [React, Node.js, MongoDB, etc.]
+- [Live Demo](https://yourliveprojecturl.com)
+- [Repository](https://github.com/yourusername/project2)
+- 
 <br>
 ⭐️ From [SomyaBhatnagar](https://github.com/SomyaBhatnagar19/SomyaBhatnagar19)
