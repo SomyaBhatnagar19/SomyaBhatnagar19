@@ -72,8 +72,8 @@ I am a passionate Fullstack Developer with a focus on creating dynamic and respo
   <h2>Stats📈</h2>
 
   <p align="center">
-    <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ayushsoni1010&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-    <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ayushsoni1010&theme=tokyonight" alt="GitHub Streak" />
+    <img width="48%" src="https://github-readme-stats.vercel.app/api?username=SomyaBhatnagar19&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+    <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=SomyaBhatnagar19&theme=tokyonight" alt="GitHub Streak" />
   </p>
 </div>
 
