@@ -10,8 +10,8 @@ I am a passionate Fullstack Developer with a focus on creating dynamic and respo
 - 📫 How to reach me: somya.bhatnagar98@gmail.com
 - 😄 My website with my projects: https: https://somya-fullstack-portfolio.vercel.app/
 - 📄 See my resume: https://drive.google.com/file/d/1pLNXih3q_NNpLDs4ZW40yPzOTFmEFQAK/view?usp=sharing
-  
-### Connect with me 🤝:
+
+<h2 align="left">Connect with me 🤝:</h2>
 <p align="left">
 <a href="https://twitter.com/bhatnagar_46554" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bhatnagar_46554" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/somya-bhatnagar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="somya-bhatnagar" height="30" width="40" /></a>
@@ -27,7 +27,8 @@ I am a passionate Fullstack Developer with a focus on creating dynamic and respo
 
 </p>
 
-### Languages and Tools
+<h2 align="left">Languages and Tools</h2>
+
 
 #### Frontend
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)
@@ -61,16 +62,15 @@ I am a passionate Fullstack Developer with a focus on creating dynamic and respo
 ![MS Office](https://img.shields.io/badge/-MS%20Office-D83B01?style=flat&logo=microsoft-office&logoColor=white)
 
 
-### GitHub Stats
+<div>
+  <h2>Git Stats📈</h2>
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=SomyaBhatnagar19&show_icons=true&theme=dark)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SomyaBhatnagar19&layout=compact&theme=dark)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=SomyaBhatnagar19&label=Profile%20views&color=0e75b6&style=flat" alt="SomyaBhatnagar19" /> </p>
 
-<div>
-  <h2>Stats📈</h2>
+
 
   <p align="center">
     <img width="48%" src="https://github-readme-stats.vercel.app/api?username=SomyaBhatnagar19&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
