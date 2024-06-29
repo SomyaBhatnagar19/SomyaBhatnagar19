@@ -12,31 +12,11 @@ I am a passionate Fullstack Developer with a focus on creating dynamic and respo
 - 📄 See my resume: https://drive.google.com/file/d/1pLNXih3q_NNpLDs4ZW40yPzOTFmEFQAK/view?usp=sharing
   
 ### Connect with me:
-<div id="badges">
-  <a href="https://github.com/SomyaBhatnagar19" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" class="badge" alt="GitHub Badge"/>
-  </a>
-  <a href="https://www.linkedin.com/in/somya-bhatnagar/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" class="badge" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://twitter.com/bhatnagar_46554" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" class="badge" alt="Twitter Badge"/>
-  </a>
-  <a href="https://www.instagram.com/somyabhatnagar98" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" class="badge" alt="Instagram Badge"/>
-  </a>
-</div>
-<style>
-  #badges {
-    display: flex;
-    gap: 10px; /* Adjust the gap to your preference */
-    justify-content: center;
-  }
-  .badge {
-    width: 30px; /* Adjust the width to your preference */
-    height: 30px; /* Adjust the height to your preference */
-  }
-</style>
+<p align="left">
+<a href="https://twitter.com/harisaini607" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="harisaini607" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/hari-kumar-saini-861677183" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hari-kumar-saini-861677183" height="30" width="40" /></a>
+<a href="https://fb.com/harikumar.saini.7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="harikumar.saini.7" height="30" width="40" /></a>
+</p>
 
 ### Languages and Tools
 
