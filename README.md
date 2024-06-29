@@ -66,9 +66,10 @@ I am a passionate Fullstack Developer with a focus on creating dynamic and respo
   <h2>Git Stats📈</h2>
 
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SomyaBhatnagar19&layout=compact&theme=dark)
+<p align="center">![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SomyaBhatnagar19&layout=compact&theme=dark)
+</p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=SomyaBhatnagar19&label=Profile%20views&color=0e75b6&style=flat" alt="SomyaBhatnagar19" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=SomyaBhatnagar19&label=Profile%20views&color=0e75b6&style=flat" alt="SomyaBhatnagar19" /> </p>
 
 
 
