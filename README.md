@@ -67,19 +67,27 @@ I am a passionate Fullstack Developer with a focus on creating dynamic and respo
 
 ### Projects
 
-#### [Project 1 Name](https://github.com/yourusername/project1)
-A brief description of what the project does and its main features.
+1. Spendzi Expense Tracker
+Backend user-centric expense management platform
 
-- Technologies: [React, Node.js, MongoDB, etc.]
-- [Live Demo](https://yourliveprojecturl.com)
-- [Repository](https://github.com/yourusername/project1)
+Features secure authentication via Sendinblue
+Provides premium access through payment
+Technologies: JWT, bcrypt, CSS, Bootstrap, JavaScript, HTML, Node.js, Express.js, Nodemon, MySQL, AWS S3
+2. Wave Group Chat App
+Fullstack application with secure authentication
 
-#### [Project 2 Name](https://github.com/yourusername/project2)
-A brief description of what the project does and its main features.
+Real-time messaging
+Chat room creation
+Multimedia sharing
+Technologies: JWT, bcrypt, CSS, React Bootstrap, JavaScript, HTML, Node.js, Express.js, Nodemon, MySQL, AWS S3, Sequelize, React.js, Redux
+3. Connect Mailbox
+Frontend application for email management
 
-- Technologies: [React, Node.js, MongoDB, etc.]
-- [Live Demo](https://yourliveprojecturl.com)
-- [Repository](https://github.com/yourusername/project2)
-- 
+Real-time updates
+Customizable interface with secure authentication
+Responsive design for a seamless user experience
+Technologies: React.js, Redux, Tailwind CSS, Firebase
+
+
 <br>
 ⭐️ From [SomyaBhatnagar](https://github.com/SomyaBhatnagar19/SomyaBhatnagar19)
