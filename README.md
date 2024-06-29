@@ -13,8 +13,14 @@ I am a passionate Fullstack Developer with a focus on creating dynamic and respo
   
 ### Connect with me:
 <p align="left">
-<a href="https://twitter.com/harisaini607" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="harisaini607" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/hari-kumar-saini-861677183" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hari-kumar-saini-861677183" height="30" width="40" /></a>
+<a href="https://twitter.com/bhatnagar_46554" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bhatnagar_46554" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/somya-bhatnagar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="somya-bhatnagar" height="30" width="40" /></a>
+  <a href="https://github.com/SomyaBhatnagar19" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="SomyaBhatnagar19" height="30" width="40" />
+  </a>
+  <a href="https://www.instagram.com/somyabhatnagar98" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="somyabhatnagar98" height="30" width="40" />
+  </a>
 <a href="https://fb.com/harikumar.saini.7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="harikumar.saini.7" height="30" width="40" /></a>
 </p>
 
