@@ -26,7 +26,6 @@ I am a passionate Fullstack Developer with a focus on creating dynamic and respo
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" class="badge" alt="Instagram Badge"/>
   </a>
 </div>
-
 <style>
   #badges {
     display: flex;
@@ -34,14 +33,10 @@ I am a passionate Fullstack Developer with a focus on creating dynamic and respo
     justify-content: center;
   }
   .badge {
-    border-radius: 50%;
-    overflow: hidden;
-    width: 50px; /* Adjust the width to your preference */
-    height: 50px; /* Adjust the height to your preference */
+    width: 30px; /* Adjust the width to your preference */
+    height: 30px; /* Adjust the height to your preference */
   }
 </style>
-
-
 
 ### Languages and Tools
 
