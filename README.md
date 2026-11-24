@@ -1,13 +1,13 @@
  <h1 align="center">Hi <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30"/>, I'm Somya Bhatnagar </h1>
 
-<h3 align="center">Full Stack Developer | Backend Developer | Frontend Developer | MERN Developer</h3>
+<h3 align="center">Full Stack Developer | Backend Developer | Frontend Developer | Django | MERN Developer</h3>
 
 <h2 align="left">About me👨‍💻</h2>
 I am a passionate Fullstack Developer with a focus on creating dynamic and responsive web applications. With a strong background in both frontend and backend development, I strive to deliver high-quality and efficient solutions.
 
 - 🔭 I’m currently working on fullstack technologies.
 - 🌱 I’m enthusiastic full-stack developer seeking collaborative opportunities to apply and expand skills in web development.
-- 📫 How to reach me: somya.bhatnagar98@gmail.com
+- 📫 How to reach me: bhatnagarsomya19@gmail.com
 - 😄 My website with my projects: https: https://somya-fullstack-portfolio.vercel.app/
 - 📄 See my resume: https://drive.google.com/file/d/1pLNXih3q_NNpLDs4ZW40yPzOTFmEFQAK/view?usp=sharing
 
